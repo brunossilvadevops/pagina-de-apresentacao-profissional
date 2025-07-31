@@ -38,7 +38,7 @@ apresentacao-profissional
 - Estilos personalizados para uma apresentação visual atraente.
 
 ## Imagem 
-<img width="760" height="599" alt="image" src="https://github.com/user-attachments/assets/ca242cf9-f631-4e92-9703-1741e139aa06" />
+<img width="759" height="599" alt="image" src="https://github.com/user-attachments/assets/fc028209-9e7a-4bc2-93b8-3c5c660e50c9" />
 
 ## Contribuições
 
