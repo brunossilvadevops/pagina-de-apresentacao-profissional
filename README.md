@@ -37,6 +37,10 @@ apresentacao-profissional
 - Navegação entre as seções "Sobre Mim", "Projetos" e "Contatos" sem recarregar a página.
 - Estilos personalizados para uma apresentação visual atraente.
 
+## Imagem 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/880471a8-201c-45b9-b5de-8bc9cb78a888" />
+
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias ou sugestões para este projeto.
+
