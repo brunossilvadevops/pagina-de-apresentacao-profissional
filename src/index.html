@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação Profissional</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="images/foto.jpg" alt="Foto de Perfil" class="foto-perfil">
+            <h1>Bruno Santos</h1>
+            <p>Analista e Desenvolvedor de Sistemas</p>
+        </header>
+        <nav class="tabs">
+            <input type="radio" id="tab-sobre" name="tab-control" checked>
+            <input type="radio" id="tab-projetos" name="tab-control">
+            <input type="radio" id="tab-contatos" name="tab-control">
+            <ul>
+                <li title="Sobre Mim">
+                    <label for="tab-sobre" role="button">Sobre Mim</label>
+                </li>
+                <li title="Projetos">
+                    <label for="tab-projetos" role="button">Projetos</label>
+                </li>
+                <li title="Contatos">
+                    <label for="tab-contatos" role="button">Contatos</label>
+                </li>
+            </ul>
+            <div class="slider"><div class="indicator"></div></div>
+            <section>
+                <div class="tab-panel" id="sobre-panel">
+                    <h2>Sobre Mim</h2>
+                    <p>Sou um profissional de análise e desenvolvimento de sistemas com experiência em diversas tecnologias e metodologias.</p>
+                </div>
+                <div class="tab-panel" id="projetos-panel">
+                    <h2>Projetos</h2>
+                    <p>Aqui estão alguns dos projetos que desenvolvi ao longo da minha carreira.</p>
+                </div>
+                <div class="tab-panel" id="contatos-panel">
+                    <h2>Contatos</h2>
+                    <p>Você pode me contatar através do e-mail: exemplo@dominio.com</p>
+                </div>
+            </section>
+        </nav>
+    </div>
+</body>
+</html>
