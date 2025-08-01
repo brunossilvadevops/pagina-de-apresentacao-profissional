@@ -13,7 +13,7 @@ Estiliza o container principal centralizando, limitando largura, cor de fundo az
 */
 .container {
     max-width: 700px;
-    margin: 40px auto;
+    margin: 10px auto;
     background: #123f83;
     border-radius: 12px;
     box-shadow: 0 4px 24px rgba(0,0,0,0.08);
