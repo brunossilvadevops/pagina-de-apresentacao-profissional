@@ -164,3 +164,15 @@ Estiliza o texto do painel: azul claro, tamanho um pouco maior e espaçamento su
     font-size: 1.05rem;
     margin-top: 8px;
 }
+/* 
+Estiliza os links dentro dos painéis das abas para cor personalizada.
+*/
+.tab-panel a {
+    color: #ffd700; /* Exemplo: amarelo ouro, troque pela cor desejada */
+    text-decoration: underline; /* Opcional: sublinhado */
+    font-weight: 500; /* Opcional: deixa o texto mais forte */
+}
+
+.tab-panel a:hover {
+    color: #fff176; /* Cor ao passar o mouse, opcional */
+}
