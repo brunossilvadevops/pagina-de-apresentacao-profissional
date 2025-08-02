@@ -1,6 +1,7 @@
 # Apresentação Profissional
 
-Este projeto é uma página web de apresentação para um profissional de Análise e Desenvolvimento de Sistemas. A página inclui seções para "Sobre Mim", "Projetos" e "Contatos", permitindo que os visitantes conheçam melhor o profissional e seu trabalho.
+Este projeto é uma página web de apresentação. A página inclui sessões para "Sobre Mim", "Projetos" e "Contatos", permitindo que os visitantes conheçam meu trabalho.
+
 
 ## Estrutura do Projeto
 
